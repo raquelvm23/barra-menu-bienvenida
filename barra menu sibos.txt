@@ -320,14 +320,9 @@
                         </ul>
                         </li>
                         <li class="top"><a id="recursos" class="principal" href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/recursos" target="_parent">Recursos</a>
-                        
                         </li>
-                        
                                         </ul>
-                       
-                        
                         </li>
-                        
                 </ul>
         </div>
 
