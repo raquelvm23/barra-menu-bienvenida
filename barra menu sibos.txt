@@ -298,35 +298,31 @@
                                          </ul>
                         </li>
                         
-                         <li class="top"><a id="accomodation" class="principal" href="https://sites.google.com/a/bbva.com/sibos2014/accomodation" target="_parent">Accommodation</a>
+                         <li class="top"><a id="cib" class="principal" href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/corporate-investment-banking" target="_parent">CIB</a>
                         
                         </li>
                      
-                        <li class="top"><a id="forums" class="principal" href="https://sites.google.com/a/bbva.com/sibos2014/forums" target="_parent">Forums</a>
+                        <li class="top"><a id="gtb" class="principal" href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/global-transaction-banking" target="_parent">Global Transaction Banking</a>
                         <ul style="left:-99999px; display: none;" class="sub">
                                         
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/compliance-forum" target="_parent">Compliance</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/corporate-forum" target="_parent">Corporate</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/innotribe" target="_parent">Innotribe</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/investment-manager-forum" target="_parent">Investment Manager</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/market-infrastructures-forum" target="_parent">Market Infrastructures</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/sibos-university" target="_parent">Sibos University</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/standards-forum" target="_parent">Standards</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/forums/technology-forum" target="_parent">Technology</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/global-transaction-banking/paises" target="_parent">Países</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/global-transaction-banking/productos-gtb" target="_parent">Productos GTB</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/global-transaction-banking/roles" target="_parent">Roles</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/global-transaction-banking/modelo-de-relacion-con-el-cliente" target="_parent">Modelo de Relación con el Cliente</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/global-transaction-banking/clientes" target="_parent">Clientes</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/global-transaction-banking/cuenta-de-resultados" target="_parent">Cuenta de Resultados</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/global-transaction-banking/negocio" target="_parent">Negocio</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/global-transaction-banking/glosario" target="_parent">Glosario</a></li>
                                   
                                         
                                         
                                         
                         </ul>
                         </li>
-                        <li class="top"><a id="agenda" class="principal" href="https://sites.google.com/a/bbva.com/sibos2014/meeting-agenda" target="_parent">Meeting agenda</a>
+                        <li class="top"><a id="recursos" class="principal" href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/recursos" target="_parent">Recursos</a>
                         
                         </li>
-                         <li class="top"><a id="other" class="principal" href="https://sites.google.com/a/bbva.com/sibos2014/other-information" target="_parent">Other Information</a>
-                        <ul style="left:-99999px; display: none;" class="sub">
-                                  <li><a href="https://sites.google.com/a/bbva.com/sibos2014/other-information" target="_parent" target="_parent">Free Wi-Fi</a></li>
-                                        
-                                        <li><a href="http://www.sibos.com/sites/default/files/Sibos_Boston_2014_Practical_Pocket_Guide.pdf" target="_parent">Practical Pocket Guide</a></li>
+                        
                                         </ul>
                        
                         
