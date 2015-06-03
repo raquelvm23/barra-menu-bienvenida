@@ -297,6 +297,7 @@
                           <ul style="left:-99999px; display: none;" class="sub">
                                         
                                         <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-cib/cib/coo" target="_parent">COO</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-cib/cib/estrategia-y-finanzas" target="_parent">Estrategia y Finanzas</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-cib/cib/global-client-coverage" target="_parent">Global Client Coverage</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-cib/cib/global-markets" target="_parent">Global Markets</a></li>
                                          <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-cib/cib/Global-Transaction-Banking" target="_parent">Global Transaction Banking</a></li>
